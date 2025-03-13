@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">Biblioteca_musica</string>
+    <string name="app_name">Biblioteca de musica</string>
+    <string name="home">Home\n</string>
+    <string name="library">Library\n</string>
+    <string name="settings">Settings</string>
+    <string name="back">Volver</string>
+    <string name="content_description_back">Volver</string>
+    <string name="search">Buscar</string>
+    <string name="content_description_search">Buscar\n</string>
+    <string name="account">Cuenta\n</string>
+    <string name="content_description_account">Cuenta\n</string>
 </resources>
