@@ -11,4 +11,6 @@
     <string name="content_description_account">Cuenta\n</string>
     <string name="name_file_xml_album">Albums</string>
     <string name="img_artist">Imagen del artista</string>
+    <string name="mostrar_solo_favoritas">Mostrar solo favoritas</string>
+    <string name="tu_biblioteca">Tu Biblioteca</string>
 </resources>
