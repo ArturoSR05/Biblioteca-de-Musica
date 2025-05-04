@@ -9,4 +9,6 @@
     <string name="content_description_search">Buscar\n</string>
     <string name="account">Cuenta\n</string>
     <string name="content_description_account">Cuenta\n</string>
+    <string name="name_file_xml_album">Albums</string>
+    <string name="img_artist">Imagen del artista</string>
 </resources>

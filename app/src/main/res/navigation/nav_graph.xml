@@ -7,17 +7,17 @@
 
     <fragment
         android:id="@+id/homeFragment"
-        android:name="com.edu.biblioteca_musica.home.presentation.HomeFragment"
+        android:name="com.edu.biblioteca_musica.features.home.presentation.HomeFragment"
         android:label="HomeFragment"/>
 
     <fragment
         android:id="@+id/libraryFragment"
-        android:name="com.edu.biblioteca_musica.library.presentation.LibraryFragment"
+        android:name="com.edu.biblioteca_musica.features.library.presentation.LibraryFragment"
         android:label="LibraryFragment"/>
 
     <fragment
         android:id="@+id/settingsFragment"
-        android:name="com.edu.biblioteca_musica.settings.presentation.SettingsFragment"
+        android:name="com.edu.biblioteca_musica.features.settings.presentation.SettingsFragment"
         android:label="SettingsFragment"/>
 
 </navigation>
